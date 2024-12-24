@@ -1,6 +1,5 @@
 name: ucp2-evrey-aiv
-display-name: ucp2-evrey-aiv-applied
-display-name: "Evrey Castles"
+display-name: "Evrey Castles Applied"
 author: Evrey & UCP-Team
 version: 2.15.1
 dependencies:
